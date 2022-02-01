@@ -10,3 +10,5 @@ answers[1] = prompt('Как ваша Фамилия?', '');
 answers[2] = prompt('Сколько вам лет?', '');
 
 document.write (answers);
+
+//second version
